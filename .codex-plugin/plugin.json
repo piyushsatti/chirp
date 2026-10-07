@@ -1,0 +1,6 @@
+{
+  "name": "chirp",
+  "version": "0.1.0",
+  "description": "Speak a concise local outline after the original agent appends a speech marker.",
+  "hooks": "./hooks/hooks.json"
+}
